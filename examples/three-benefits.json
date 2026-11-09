@@ -1,0 +1,19 @@
+{
+  "headline": "Your first six months, wrapped",
+  "subhead": "A shorter cut: three benefits, a different palette",
+  "currency": "$",
+  "theme": {
+    "ink": "#1F3A5F",
+    "accent": "#2F6FDE",
+    "surface": "#F4F8FD",
+    "soft": "#E3EEFB",
+    "mid": "#BCD6F5",
+    "cta": "#21B07D"
+  },
+  "benefits": [
+    { "icon": "shield", "title": "Vet bills covered", "value": 640, "format": "currency", "caption": "One claim for an ear infection" },
+    { "icon": "gift", "title": "Partner savings", "value": 118, "format": "currency", "caption": "Two grooming visits and a bag of food" },
+    { "icon": "heart", "title": "Wellness checks", "value": 2, "format": "count", "caption": "Vaccinations and a dental check" }
+  ],
+  "cta": "Renew in one tap"
+}

@@ -1,0 +1,44 @@
+{
+  "headline": "What your pet's membership gives back",
+  "subhead": "One year of member benefits, in numbers",
+  "currency": "$",
+  "theme": {
+    "ink": "#342572",
+    "accent": "#5920F2",
+    "surface": "#FAF6FD",
+    "soft": "#F3E9F6",
+    "mid": "#E8CDE2",
+    "cta": "#21B07D"
+  },
+  "benefits": [
+    {
+      "icon": "shield",
+      "title": "Vet bills covered",
+      "value": 1840,
+      "format": "currency",
+      "caption": "Paid back on two claims this year"
+    },
+    {
+      "icon": "gift",
+      "title": "Partner savings",
+      "value": 326,
+      "format": "currency",
+      "caption": "Food, grooming and toys from member offers"
+    },
+    {
+      "icon": "heart",
+      "title": "Wellness checks",
+      "value": 4,
+      "format": "count",
+      "caption": "Dental, vaccinations and two routine visits"
+    },
+    {
+      "icon": "clock",
+      "title": "Avg. claim turnaround",
+      "value": 2.5,
+      "format": "days",
+      "caption": "From photo of the invoice to money in the bank"
+    }
+  ],
+  "cta": "See your benefits"
+}
